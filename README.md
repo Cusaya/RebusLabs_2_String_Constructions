@@ -11,7 +11,8 @@
 6. bu durumda s'den bir sonraki char'ı satın al ! (+1$)
 7. p iteratorun s' maximum indisi ile aynı olduğunda işlemi sonlandır.
 
-***1*** *Kodlarma Aşamaları
+***1*** *Kodlama Aşamaları
 1. Sorunun çok kolay bir şeklini yaz.
 2. string kütüphane ve fonksiyonlarının tamamen gözden geçir.
-3. 0'daki algoritmayı ipmlimente et.
+3. önce elimdeki ders notlarından sonra deitel'den sonra gerekirse internet.
+4. 0'daki algoritmayı ipmlimente et.
