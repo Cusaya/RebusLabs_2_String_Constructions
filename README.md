@@ -13,4 +13,5 @@
 
 ***1*** *Kodlarma Aşamaları
 1. Sorunun çok kolay bir şeklini yaz.
-2. 0'daki algoritmayı ipmlimente et.
+2. string kütüphane ve fonksiyonlarının tamamen gözden geçir.
+3. 0'daki algoritmayı ipmlimente et.
